@@ -8,9 +8,11 @@ import re
 import requests
 import xlsxwriter
 
-# Yelp Scraper v0.0.1 2015-05-06
-# DESCRIPTION : This program allows to browse Yelp France results to extract
+# Yelp Scraper v0.0.1
+# DESCRIPTION: This program allows to browse Yelp France results to extract
 # (scrap) desired informations.
+# AUTHOR: David Dahan (david-dahan.com)
+# LICENCE: MIT
 
 # -----------------------------------------------------------------------------
 # ---------------------------------- CONFIG -----------------------------------
